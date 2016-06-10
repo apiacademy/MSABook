@@ -1,7 +1,7 @@
 # MSABook
 Online content for the "Microservices Architecture" Book
 
-Read more the API Academy blog series for O'Reilly that accompanies the book...
+Read more in the API Academy blog series for O'Reilly that accompanies the book...
 
 "The Three Pillars of Microservice Culture" by Mike Amundsen - https://www.oreilly.com/ideas/three-pillars-of-microservice-culture
 
